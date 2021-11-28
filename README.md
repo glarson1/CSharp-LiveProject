@@ -7,3 +7,7 @@ My first story of the project was to create a method that can be used to limit t
 
 The next story I was tasked with was to create an entity model for the Rental class so that rentals could be saved to the database. The first thing I did was create the Rental class where I also created the RentalEquipment and RentalRoom classes that inherited from Rental.
 ![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Second.PNG)
+
+The next thing I did was create the controller and scaffolded the CRUD pages for it.
+![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Third.PNG)
+
