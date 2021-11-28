@@ -17,3 +17,7 @@ The next thing I did was create the controller and scaffolded the CRUD pages for
 I then updated the database to create a table in the database to hold all things rentals which at the time didn't have any data inside yet, but in the image it has all the different tests that I tried to ensure things were running smoothly in other parts of the project.
 ![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Fourth.PNG)
 
+### Story 3
+This next story was to style the Create and Edit pages. I was given a list of styling wants and I applied them to those pages. Here is a before and after. There is also some hover effects on the buttons and click effects on the input boxes.
+![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthBefore.PNG)
+![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthAfter.PNG)
