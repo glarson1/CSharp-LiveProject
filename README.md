@@ -25,4 +25,4 @@ This next story was to style the Create and Edit pages. I was given a list of st
 ### Story 4
 The task for this story was to create a dropdown on the Create and Edit pages for selecting on of the Rental types (Rental, RentalEquipment, and RentalRoom). Depending on what the user chooses in this dropdown will show/hide input fields in the form. For example if RentalEquipment is chosen, we would see the three fields for Rental and the three fields for RentalEquipment, without seeing the three fields for RentalRoom. This story is the story that challenged me the most, but also the story I appreciated the most because I got to learn so much from it. I started by adding an enum to my rental class
 
-![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthAfter.PNG)
+![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Sixth.PNG)
