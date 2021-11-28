@@ -35,7 +35,7 @@ Part of determining what was shown and what was hidden was done in the rent.js f
 
 ![Image of rental.js](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eighth.PNG)
 
-The rental type (Rental, RentalEquipment, RentalRoom) was determined in the controller. If someone entered in a value for PurchasePrice greater than 0, then that meant that the rental type was RentalEquipment. If someone entered in a vale for RoomNumber that was greater than 0, then the rental type was RentalRoom. The type "Rental" was always displayed and was displayed by itself when there were no values given for both PurchasePrice and RentalRoom.
+The rental type (Rental, RentalEquipment, RentalRoom) was determined in the controller. If someone entered in a value for PurchasePrice greater than 0, then that means that the rental type was RentalEquipment. If someone entered in a vale for RoomNumber that was greater than 0, then the rental type was RentalRoom. The type "Rental" was always displayed and was displayed by itself when there were no values given for both PurchasePrice and RentalRoom.
 
 ![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Nineth.PNG)
 
