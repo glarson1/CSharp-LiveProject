@@ -9,5 +9,6 @@ The next story I was tasked with was to create an entity model for the Rental cl
 ![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Second.PNG)
 
 The next thing I did was create the controller and scaffolded the CRUD pages for it.
+
 ![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Third.PNG)
 
