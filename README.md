@@ -27,4 +27,7 @@ The task for this story was to create a dropdown on the Create and Edit pages fo
 
 ![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Sixth.PNG)
 
-Then 
+Then created variables of each field to be targeted in the form and passed in enum to the helper method DropDownListFor which reders a dropdown list that allows you to select between the different options that each render a different form.
+
+![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Seventh.PNG)
+
