@@ -12,12 +12,17 @@ The next story I was tasked with was to create an entity model for the Rental cl
 
 The next thing I did was create the controller and scaffolded the CRUD pages for it.
 
-![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Third.PNG)
+![Image controller and crud](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Third.PNG)
 
 I then updated the database to create a table in the database to hold all things rentals which at the time didn't have any data inside yet, but in the image it has all the different tests that I tried to ensure things were running smoothly in other parts of the project.
-![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Fourth.PNG)
+![Image of db table](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Fourth.PNG)
 
 ### Story 3
 This next story was to style the Create and Edit pages. I was given a list of styling wants and I applied them to those pages. Here is a before and after. There is also some hover effects on the buttons and click effects on the input boxes.
-![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthBefore.PNG)
-![Image of rental class](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthAfter.PNG)
+![Image of create before](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthBefore.PNG)
+![Image of create after](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthAfter.PNG)
+
+### Story 4
+The task for this story was to create a dropdown on the Create and Edit pages for selecting on of the Rental types (Rental, RentalEquipment, and RentalRoom). Depending on what the user chooses in this dropdown will show/hide input fields in the form. For example if RentalEquipment is chosen, we would see the three fields for Rental and the three fields for RentalEquipment, without seeing the three fields for RentalRoom. This story is the story that challenged me the most, but also the story I appreciated the most because I got to learn so much from it. I started by adding an enum to my rental class
+
+![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/FifthAfter.PNG)
