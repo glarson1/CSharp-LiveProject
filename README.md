@@ -27,7 +27,15 @@ The task for this story was to create a dropdown on the Create and Edit pages fo
 
 ![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Sixth.PNG)
 
-Then created variables of each field to be targeted in the form and passed in enum to the helper method DropDownListFor which reders a dropdown list that allows you to select between the different options that each render a different form.
+Then created variables of each field to be targeted in the form and passed in enum to the helper method DropDownListFor which creates a dropdown list that allows you to select between the different options that each render a different form.
 
 ![Image of rental class with enum](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Seventh.PNG)
+
+Part of determining what was shown and what was hidden was done in the rent.js file. It would see what type of option the user selected (Rental, RentalRoom, RentalEquipment) and show what the user selected and hide what was not.
+
+![Image of rental.js](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eighth.PNG)
+
+The rental type (Rental, RentalEquipment, RentalRoom) was determined in the controller. If someone entered in a value for PurchasePrice greater than 0, then that means that the rental type was RentalEquipment. If someone entered in a vale for RoomNumber that was greater than 0, then the rental type was RentalRoom. The type "Rental" was always displayed and was displayed by itself when there were no values given for both PurchasePrice and RentalRoom.
+
+![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Nineth.PNG)
 
