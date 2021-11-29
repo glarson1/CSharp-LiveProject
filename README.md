@@ -39,3 +39,9 @@ The rental type (Rental, RentalEquipment, RentalRoom) was determined in the cont
 
 ![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Nineth.PNG)
 
+This is how it looked from the user side.
+
+![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Tenth.PNG)
+![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eleventh.PNG)
+![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Twelveth.PNG)
+![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
