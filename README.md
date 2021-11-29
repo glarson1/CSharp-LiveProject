@@ -41,7 +41,12 @@ The rental type (Rental, RentalEquipment, RentalRoom) was determined in the cont
 
 This is how it looked from the user side.
 
-![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Tenth.PNG)
-![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eleventh.png)
-![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Twelveth.PNG)
-![Image of rentalcontroller ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
+![Image of create page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Tenth.PNG)
+![Image of create page](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eleventh.png)
+![Image of create page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Twelveth.PNG)
+![Image of create page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
+
+### Story 5 my last story of the 10 days
+This last story wanted me to style the index page to give it a better layout using bootstrap. It also wanted the data to be displayed in a bootstrap card style, showing if the item was a choking or suffocation hazard. The data was to be organized into the correct options (Rental, RentalEquipment, RentalRoom).
+This is what the index page looked like before starting the story.
+![Image of old index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
