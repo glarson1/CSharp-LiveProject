@@ -46,7 +46,9 @@ This is how it looked from the user side.
 ![Image of create page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Twelveth.PNG)
 ![Image of create page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
 
-### Story 5 my last story of the 10 days
+### Story 5, my last story of the 10 days
 This last story wanted me to style the index page to give it a better layout using bootstrap. It also wanted the data to be displayed in a bootstrap card style, showing if the item was a choking or suffocation hazard. The data was to be organized into the correct options (Rental, RentalEquipment, RentalRoom).
 This is what the index page looked like before starting the story.
 ![Image of old index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Thirteenth.PNG)
+
+I began this story by getting the code for a bootstrap card inside of the cshtml page. Then I tweaked it to meet my needs and display what I wanted. I used three different foreach loops to go through all data from each of the three categories (Rental, RentalEquipment, RentalRoom) and display that data in the correct section. If statements were used to determine if the data was a choking hazard, suffocation hazard, or contained an entry for square footage. Also a placeholder image was used for all the cards during my time working on the story. In the future when the next team gets their hands on the project, the images will make more sense for each entry. 
