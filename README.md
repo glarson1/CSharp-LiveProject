@@ -65,3 +65,4 @@ And here is the user side afterwards
 
 
 
+Overall I felt like the two weeks I spent working with the team on the project was very beneficial to my understanding of C# and .Net. 
