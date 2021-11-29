@@ -52,3 +52,16 @@ This is what the index page looked like before starting the story.
 ![Image of old index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Fourteenth.PNG)
 
 I began this story by getting the code for a bootstrap card inside of the cshtml page. Then I tweaked it to meet my needs and display what I wanted. I used three different foreach loops to go through all data from each of the three categories (Rental, RentalEquipment, RentalRoom) and display that data in the correct section. If statements were used to determine if the data was a choking hazard, suffocation hazard, or contained an entry for square footage. Also a placeholder image was used for all the cards during my time working on the story. In the future when the next team gets their hands on the project, the images will make more sense for each entry. 
+
+![Image of old index page cshtml ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Fifteenth.PNG)
+![Image of old index page cshtml ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Seventeenth.PNG)
+![Image of old index page cshtml ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Eighteenth.PNG)
+
+And here is the user side afterwards
+
+![Image of new index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Sixteenth.PNG)
+![Image of new index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Nineteenth.PNG)
+![Image of new index page ](https://github.com/glarson1/CSharp-LiveProject/blob/main/Images/Twenty.PNG)
+
+
+
